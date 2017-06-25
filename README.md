@@ -21,6 +21,9 @@ public domain,Just take it.
 ## Thanks
 
 @Ruan YiFeng: https://github.com/ruanyf
+
 @materliu：https: //materliu.github.io/code-guide/
+
 @hzlzh: https://github.com/hzlzh/Front-End-Standards
+
 @tguide: http://tguide.qq.com/main/base.htm
