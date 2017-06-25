@@ -16,13 +16,13 @@
 
 ## License
 
-public domain,Just take it.
+public domain, Just take it.
 
 ## Thanks
 
 @Ruan YiFeng: https://github.com/ruanyf
 
-@materliu：https: //materliu.github.io/code-guide/
+@materliu：https://materliu.github.io/code-guide
 
 @hzlzh: https://github.com/hzlzh/Front-End-Standards
 
