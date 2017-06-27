@@ -21,7 +21,7 @@
 
 在每个 HTML 页面开头使用这个简单地 doctype 来启用标准模式，使其每个浏览器中尽可能一致的展现。
 
-虽然doctype不区分大小写，但是按照惯例，doctype 大写
+虽然 doctype 不区分大小写，但是按照惯例，doctype 大写
 
 ```
 <!DOCTYPE html>
