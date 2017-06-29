@@ -1,6 +1,8 @@
 
 # Web 前端代码规范
 
+![Web 前端代码规范](https://github.com/grab/front-end-guide/raw/master/images/desk.png)
+
 最后更新时间：2017-06-25
 
 原始文章链接：https://github.com/bxm0927/web-code-standards
